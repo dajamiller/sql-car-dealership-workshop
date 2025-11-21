@@ -1,6 +1,6 @@
 # sql-car-dealership-workshop
 
-This project is from Week 9 - Workbook 7w
+This project is from Week 9 of YUU LTCA - Workbook 7w 
 
 ## Features
 - Stores dealership contact info
