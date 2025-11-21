@@ -2,7 +2,7 @@
 
 This project is from Week 9 of YUU LTCA - Workbook 7w 
 
-## 💻Features
+## 💻 Database Features
 - Stores dealership contact info
 - Tracks vehicle sales by dealership
 - Tracks vehicle sales
